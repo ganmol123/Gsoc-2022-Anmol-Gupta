@@ -1,4 +1,4 @@
-# Authentication in PHEE - GSoC' 22
+# Authentication-POC PHEE - GSoC' 22
 
 Steps followed to implement authentication in PHEE
 
